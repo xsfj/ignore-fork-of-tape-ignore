@@ -57,7 +57,7 @@ if (ignoreStr) {
 	matcher = ignore.createMatcher(ignoreStr);
 }
 
-var glob = require('glob');
+var glob = require('globv7');
 
 var files = opts._.reduce(function (result, arg) {
 	if (glob.hasMagic(arg)) {

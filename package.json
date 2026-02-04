@@ -30,7 +30,7 @@
 		"dotignore": "^0.1.2",
 		"for-each": "^0.3.5",
 		"get-package-type": "^0.1.0",
-		"glob": "^7.2.3",
+		"globv7": "^1.0.0",
 		"has-dynamic-import": "^2.1.1",
 		"hasown": "^2.0.2",
 		"inherits": "^2.0.4",
